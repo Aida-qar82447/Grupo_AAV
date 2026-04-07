@@ -1,4 +1,4 @@
 # Grupo\_AAV
 
-LO CAMBIO PARA VER SI PUEDO PISAR OTROS ARCHIVO
+Proyecto creado por Aida Gonzalez Fernandez, Victor Velasco Alvarez y Alba Garcia Naharro
 
